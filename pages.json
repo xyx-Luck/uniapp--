@@ -68,7 +68,7 @@
 		"list": [{
 			"pagePath": "pages/index/index",
 			"iconPath": "static/image/home.png",
-			"selectedIconPath": "static/image/home_active.png",
+			"selectedIconPath": "static/image/home-active.png",
 			"text": "糗事"
 		}, {
 			"pagePath": "pages/trend/trend",
